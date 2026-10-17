@@ -1,31 +1,33 @@
 # Hi, I'm Dani! 👋
 
-### Backend Developer | APIs, Security & Automation
+### Backend Developer | Automation & Software Solutions
 
 I'm a software developer focused on building practical, reliable, and maintainable solutions.
 
-My experience includes backend development, authentication systems, data validation, automation, performance optimization, and web applications.
+My main areas of interest include **backend development, authentication, security, data validation, automation, and performance optimization**.
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** C#, Python, PHP, Java, JavaScript, TypeScript, Lua
+**Main languages:** C#, Python, PHP
 
-**Frameworks & Technologies:** .NET, ASP.NET Core, SQL, HTML, CSS
+**Additional experience:** Java, JavaScript, TypeScript, Lua
 
-**Databases:** MySQL
+**Technologies:** .NET, ASP.NET Core, MySQL, HTML, CSS
 
-### What I Build
+## 💻 What I Do
 
 - Backend APIs and integrations
 - Authentication and authorization systems
-- Automation scripts and data processing tools
+- Automation and data processing tools
 - Database-driven applications
-- Secure and maintainable software solutions
+- Code optimization and maintenance
 
-### Featured Projects
+## 📂 Featured Projects
 
-Still to be added.
+I'm currently organizing my portfolio and preparing selected projects to showcase my work.
 
-### Contact
+## 🚀 Current Focus
 
-Professional contact information coming soon.
+Building a collection of practical, well-documented projects that demonstrate real-world problem-solving skills.
+
+**Open to freelance opportunities and interesting collaborations.**
