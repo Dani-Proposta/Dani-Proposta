@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Dani! 👋
 
-<!--
-**dani-propostas/dani-propostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | APIs, Security & Automation
 
-Here are some ideas to get you started:
+I'm a software developer focused on building practical, reliable, and maintainable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes backend development, authentication systems, data validation, automation, performance optimization, and web applications.
+
+### Tech Stack
+
+**Languages:** C#, Python, PHP, Java, JavaScript, TypeScript, Lua
+
+**Frameworks & Technologies:** .NET, ASP.NET Core, SQL, HTML, CSS
+
+**Databases:** MySQL
+
+### What I Build
+
+- Backend APIs and integrations
+- Authentication and authorization systems
+- Automation scripts and data processing tools
+- Database-driven applications
+- Secure and maintainable software solutions
+
+### Featured Projects
+
+
+
+### Contact
+
+Professional contact information coming soon.
