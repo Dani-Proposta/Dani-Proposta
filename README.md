@@ -24,7 +24,7 @@ My experience includes backend development, authentication systems, data validat
 
 ### Featured Projects
 
-
+Still to be added.
 
 ### Contact
 
